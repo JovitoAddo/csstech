@@ -1,0 +1,27 @@
+p:hover{
+    background-color: #111827;
+}
+p{
+    background-color: gainsboro;
+    color: #F3F4F6;
+    font-family: sans-serif;
+    margin: 0%;
+}
+#siswa{
+    padding: 15px 10px 15px 10px;
+}
+
+a{
+    font-family: sans-serif;
+    font-weight: 400;
+    color: black;
+    list-style-type: none;
+    text-transform: capitalize;
+    padding:10px 15px 10px 15px;
+    margin: 0%;
+    display:inline-block;
+    background-color: lightskyblue;
+}
+a:hover{
+    background-color: gainsboro;
+}
